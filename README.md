@@ -22,6 +22,9 @@ This repository showcases my business intelligence and data visualization projec
 ## Project Summary
 I built an interactive Power BI report using the **Global Superstore** dataset to analyze sales, profitability, returns, country-level performance, and regional leadership performance.
 
+### Dashboard Preview
+![Power BI Global Superstore Dashboard](power-bi-global-superstore-dashboard.png)
+
 ## Key Features
 - Created relationships between **Orders, People, and Returns** tables
 - Built a drill-down bar chart for **Category and Sub-Category Sales and Profit**
@@ -46,6 +49,9 @@ This dashboard supports quick decision-making by identifying:
 ## Project Summary
 I created an interactive Tableau dashboard to analyze sales, regional profitability, product category performance, and negative-profit patterns across countries and customer segments.
 
+### Dashboard Preview
+![Tableau Sales and Profit Dashboard](tableau-sales-profit-dashboard.png)
+
 ## Key Features
 - Evaluated which product categories produced the **lowest profit across regions**
 - Identified **countries and customer segments generating negative profit**
@@ -68,6 +74,9 @@ This dashboard helps leaders quickly diagnose:
 ## Project Summary
 I developed a Tableau dashboard to explore company market capitalization trends across the S&P 500, using filters, ranked views, and interactive visuals to compare firm performance over time.
 
+### Dashboard Preview
+![S&P 500 Market Capitalization Dashboard](sp500-market-cap-dashboard.png)
+
 ## Key Features
 - Built a dashboard focused on **company market capitalization analysis**
 - Used sorting and ranking to compare firms
@@ -85,6 +94,9 @@ This dashboard supports financial trend analysis by making large-scale company c
 
 ## Project Summary
 I created a Tableau symbol map to compare passenger traffic across European airports using three-character IATA airport codes.
+
+### Dashboard Preview
+![European Airports Passenger Traffic Map](european-airports-passenger-map.png)
 
 ## Key Features
 - Mapped airports geographically using Tableau
